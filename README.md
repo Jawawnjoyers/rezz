@@ -7,7 +7,7 @@ $ pip2 install bs4
 $ pip2 install requests  
 $ pip2 install mechanize  
 $ rm -rf fbcrack  
-$ git clone https://github.com/jawawnjoyers/rezz  
+$ git clone https://github.com/REZAEXX/rezz  
 ## ⇨  𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩
 $ cd rezz  
-$ python2 javascript  
+$ python2 run.py  
